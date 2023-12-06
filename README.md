@@ -1,4 +1,4 @@
-# hookscript tempalte
+# hookscript template
 
 [hookscript repo](https://github.com/XRPL-Labs/hookscript/tree/main)
 [hookscript Document](https://github.com/XRPL-Labs/hookscript/blob/main/DOC.md)
