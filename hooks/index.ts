@@ -1,3 +1,4 @@
 function hook(reserved: i32) {
-  accept()
+  console.log("Accept.ts: Called.");
+  accept();
 }
